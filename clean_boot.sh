@@ -1,4 +1,4 @@
-# # Script to cleanup /boot if apt is not working
+# Script to cleanup /boot if apt is not working
 #
 # Author: Omar Santos
 # Version: 0.0.1
